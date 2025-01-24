@@ -1,3 +1,3 @@
 # Image-Editing-App
 
-- Swift based image editing app.
+- UIKit-based image editing app.
